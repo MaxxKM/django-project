@@ -1,0 +1,1 @@
+web: gunicorn django-project-hello-world-max.wsgi
